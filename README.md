@@ -155,6 +155,7 @@ cybersickness-escalation-forecasting/
 Daniel Llopis
 
 Master in Science in Neurotechnology
+
 Universidad Politécnica de Madrid (UPM)
 
 GitHub: @danillopis
