@@ -1,7 +1,7 @@
 Forecasting Cybersickness Escalation Using Eye-Tracking and Head-Motion Signals
 
 <p align="center">
-  <img src="docs/general_pipeline.png" width="900">
+  <img src="docs/general pipeline.png" width="900">
 </p>
 <p align="center">
   <strong>Master's Thesis | Master in Science in Neurotechnology</strong><br>
