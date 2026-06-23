@@ -126,15 +126,55 @@ These findings are consistent with the neurophysiological mechanisms proposed by
 
 # Repository Structure
 
-cybersickness-escalation-forecasting/
+```
+
+├── MazeSick_final.csv: Final processed MazeSick dataset used throughout the study.
+
 │
-├── README.md
-├── requirements.txt
-├── data/
-├── notebooks/
-├── results/
-├── docs/
-└── thesis/
+
+├── RelaxVR_Cybersickness_Reduction_in_Immersive_VR.pdf: Original publication introducing the RelaxVR framework and MazeSick dataset.
+
+│
+
+├── tfm_mazestick copy.ipynb: Main Jupyter notebook containing the complete experimental pipeline, including preprocessing, feature engineering, model training, evaluation, and explainability analyses.
+
+│
+
+├── all_model_results.csv: Consolidated performance metrics for all evaluated models.
+
+│
+
+├── logistic_regression_results.csv: Detailed results obtained from Logistic Regression experiments.
+
+│
+
+├── xgboost_results.csv: Detailed results obtained from XGBoost experiments.
+
+│
+
+├── lstm_hyperparameter_search_results.csv: Hyperparameter optimization results for the LSTM architecture.
+
+│
+
+├── lstm_test_metrics.csv: Final evaluation metrics obtained by the selected LSTM model.
+
+│
+
+├── general pipeline.png: Visual summary of the complete forecasting methodology.
+
+│
+
+├── README.md: Project documentation and usage instructions.
+
+│
+
+├── LICENSE: Repository license information.
+
+│
+
+└── .gitignore: Files and folders excluded from version control.
+
+```
 
 # Technologies
 
