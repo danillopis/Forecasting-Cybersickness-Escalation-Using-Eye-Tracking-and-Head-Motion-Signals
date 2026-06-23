@@ -8,9 +8,7 @@ Forecasting Cybersickness Escalation Using Eye-Tracking and Head-Motion Signals
   Universidad Politécnica de Madrid (UPM)
 </p>
 
-⸻
-
-Overview
+# Overview
 
 This project investigates whether cybersickness escalation events can be anticipated using eye-tracking and head-motion signals acquired directly from Virtual Reality (VR) head-mounted displays (HMDs).
 
@@ -25,9 +23,7 @@ The proposed framework combines:
 
 The objective is to generate early warnings before cybersickness symptoms become severe enough to be explicitly reported by users.
 
-⸻
-
-Research Motivation
+# Research Motivation
 
 Cybersickness remains one of the main barriers to the widespread adoption of immersive Virtual Reality systems.
 
@@ -37,9 +33,7 @@ Can cybersickness escalation be predicted before users report an increase in sym
 
 Such forecasting capabilities could enable adaptive VR systems capable of proactively mitigating discomfort through dynamic interventions.
 
-⸻
-
-Dataset
+# Dataset
 
 The experiments are based on the MazeSick dataset introduced within the RelaxVR framework.
 
@@ -54,9 +48,7 @@ Dataset Characteristics
 
 Note: The original dataset is not redistributed in this repository. Please refer to the original RelaxVR publication for access conditions.
 
-⸻
-
-Methodology
+# Methodology
 
 The complete pipeline consists of:
 
@@ -88,9 +80,7 @@ SHAP Explainability
        ↓
 Cybersickness Escalation Forecasting
 
-⸻
-
-Evaluated Models
+# Evaluated Models
 
 Classical Machine Learning
 
@@ -107,9 +97,7 @@ Deep Learning
 * 1D Convolutional Neural Network (1D-CNN)
 * Long Short-Term Memory Network (LSTM)
 
-⸻
-
-Main Results
+# Main Results
 
 Key findings include:
 
@@ -122,9 +110,7 @@ Key findings include:
 
 The results support the hypothesis that temporal patterns in gaze behaviour and head-motion dynamics can be used for early cybersickness forecasting.
 
-⸻
-
-Explainability
+# Explainability
 
 SHAP (SHapley Additive exPlanations) was used to identify the most influential predictors.
 
@@ -138,9 +124,7 @@ The most relevant variables were associated with:
 
 These findings are consistent with the neurophysiological mechanisms proposed by Sensory Conflict Theory.
 
-⸻
-
-Repository Structure
+# Repository Structure
 
 cybersickness-escalation-forecasting/
 │
@@ -152,9 +136,7 @@ cybersickness-escalation-forecasting/
 ├── docs/
 └── thesis/
 
-⸻
-
-Technologies
+# Technologies
 
 * Python
 * NumPy
@@ -168,28 +150,23 @@ Technologies
 * Seaborn
 * Jupyter Notebook
 
-⸻
-
-Author
+# Author
 
 Daniel Llopis
 
 Master in Science in Neurotechnology
 Universidad Politécnica de Madrid (UPM)
 
-GitHub: @danillopis22
+GitHub: @danillopis
 
-⸻
-
-Citation
+# Citation
 
 If you use this work, please cite:
 
-Llopis, D.
+Llopis, D; Melgar, Laura; Bajo, Javier
 Forecasting Cybersickness Escalation Using Eye-Tracking and Head-Motion Signals.
-Master's Thesis, Universidad Politécnica de Madrid (UPM), 2025.
+Master's Thesis, Universidad Politécnica de Madrid (UPM), 2026.
 
-⸻
 
 License
 
