@@ -90,10 +90,10 @@ Classical Machine Learning
 * XGBoost
 * CatBoost
 * Support Vector Machine (SVM)
-* Multilayer Perceptron (MLP)
 
 Deep Learning
 
+* Multilayer Perceptron (MLP)
 * 1D Convolutional Neural Network (1D-CNN)
 * Long Short-Term Memory Network (LSTM)
 
